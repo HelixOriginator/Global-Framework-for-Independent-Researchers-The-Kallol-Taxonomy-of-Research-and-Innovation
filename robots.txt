@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://helixoriginator.github.io/Global-Framework-for-Independent-Researchers-The-Kallol-Taxonomy-of-Research-and-Innovation/sitemap.xml
